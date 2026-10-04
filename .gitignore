@@ -1,0 +1,7 @@
+# PDF Files
+*.pdf
+
+# Intellij Files
+/.idea
+/out
+/assignment2
